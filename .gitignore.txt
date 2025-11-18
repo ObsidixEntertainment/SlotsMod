@@ -1,0 +1,14 @@
+# Ignore OS junk
+Thumbs.db
+.DS_Store
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore backup editor files
+*.orig
+*.old
+
+# Ignore workshop build cache if you ever make one
+WorkshopUpload/

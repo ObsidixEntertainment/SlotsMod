@@ -1,0 +1,2 @@
+UI_profession_Slots = Slots
+UI_profession_Slotsdesc = Slots to win the apocolypse

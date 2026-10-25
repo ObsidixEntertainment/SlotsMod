@@ -1,0 +1,19 @@
+module SlotsB42
+{
+    item SlotMachine
+    {
+        DisplayCategory = Furniture,
+        ItemType = base:moveable,
+        Weight = 0.5,
+        Icon = SlotMachine,
+        WorldObjectSprite = recreational_01_16,
+    }
+    item CasinoToken
+    {
+        ItemType = base:normal,
+        DisplayCategory = Entertainment,
+        Weight = 0.01,
+        Icon = PokerChips,
+        WorldStaticModel = PokerChips_Ground,
+    }
+}

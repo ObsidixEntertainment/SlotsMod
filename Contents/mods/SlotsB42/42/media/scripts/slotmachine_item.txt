@@ -1,0 +1,11 @@
+module Base
+{
+    item SlotMachine
+    {
+        DisplayCategory = Furniture,
+        ItemType = base:moveable,
+        Weight = 0.5,
+        Icon = SlotMachine,
+        WorldObjectSprite = recreational_01_16,
+    }
+}

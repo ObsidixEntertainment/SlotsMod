@@ -1,0 +1,5 @@
+ItemName_EN = {
+    ItemName_Base.SlotMachine = "Slot Machine",
+    ItemName_SlotsB42.SlotMachine = "Slot Machine",
+    ItemName_SlotsB42.CasinoToken = "Casino Token",
+}
